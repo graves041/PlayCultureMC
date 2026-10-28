@@ -1,43 +1,60 @@
-# PlayCultureMC
+<div align="center">
 
-One Minecraft plugin for the PlayCulture games. Run one, two or all of them on the same server, with a single resource pack.
+<a href="https://playculturemc.graves041.com">
+  <img src="https://playculturemc.graves041.com/img/og-image.png" alt="PlayCultureMC" width="720">
+</a>
 
-| Game | Status |
-|------|--------|
-| **SeekTag**: hide, hunt and spot numbered vests | Available |
-| **Zombies**: survive, infect, extract | In development |
-| **Pirate Gold**: trade, raid and plunder | Coming later |
+### One plugin. Three games. One resource pack.
 
-## Website
+Run SeekTag, Zombies and Pirate Gold on the same server, together or on their own.
 
-Rules, setup guides, commands, permissions and downloads are all on the website:
+<br>
 
-**https://playculturemc.graves041.com**
+[![Website](https://img.shields.io/badge/Website-playculturemc.graves041.com-ffcd00?style=for-the-badge&labelColor=262626)](https://playculturemc.graves041.com)
+[![Downloads](https://img.shields.io/badge/Get-Downloads-3de66c?style=for-the-badge&labelColor=262626)](https://playculturemc.graves041.com/downloads)
+[![Setup](https://img.shields.io/badge/Read-Setup%20Guide-b58cff?style=for-the-badge&labelColor=262626)](https://playculturemc.graves041.com/guide)
 
-- [Downloads](https://playculturemc.graves041.com/downloads): plugin jar and resource pack (Java and Bedrock)
-- [Setup guide](https://playculturemc.graves041.com/guide)
-- [SeekTag](https://playculturemc.graves041.com/seektag/) · [Zombies](https://playculturemc.graves041.com/zombies/) · [Pirate Gold](https://playculturemc.graves041.com/pirategold/)
+![Paper](https://img.shields.io/badge/Paper-1.21.11-262626?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21-262626?style=flat-square)
+![Bedrock](https://img.shields.io/badge/Bedrock-via%20Geyser-262626?style=flat-square)
 
-## Requirements
+</div>
 
-- Paper or Purpur 1.21.11
-- Java 21
-- Optional: PlaceholderAPI, Floodgate and Geyser (for Bedrock players)
+---
 
-## Quick start
+## 🎮 The games
 
-1. Download `PlayCultureMC-1.0.0.jar` and the resource pack from the website.
-2. Put the jar in your server's `plugins` folder and start the server.
-3. Host the resource pack and set it in `server.properties`, then follow the setup guide to create your first arena.
+| | Game | What you do | Status |
+|---|------|-------------|--------|
+| 🟨 | [**SeekTag**](https://playculturemc.graves041.com/seektag/) | Hide, hunt and spot numbered vests to score points | ✅ Available |
+| 🟩 | [**Zombies**](https://playculturemc.graves041.com/zombies/) | Survive, infect and extract | 🛠️ In development |
+| 🟪 | [**Pirate Gold**](https://playculturemc.graves041.com/pirategold/) | Trade, raid and plunder | ⏳ Coming later |
 
-## Building from source
+## ✨ Why PlayCultureMC?
 
-```
-mvn -q -B package
-```
+- 🧩 **Mix and match**: enable one, two or all three games on the same server.
+- 🎨 **One resource pack**: a single Java and Bedrock pack covers every game.
+- 📱 **In-game phone**: menus, scores and leaderboards, with the same look on Java and Bedrock.
+- 🔌 **Optional extras**: PlaceholderAPI, Floodgate and Geyser are supported.
 
-The jar is written to `target/`.
+## 🚀 Quick start
 
-## Credits
+1. Download the plugin and resource pack from the [website](https://playculturemc.graves041.com/downloads).
+2. Drop `PlayCultureMC-1.0.0.jar` into your server's `plugins` folder and start the server.
+3. Host the resource pack and add it to `server.properties`.
+4. Follow the [setup guide](https://playculturemc.graves041.com/guide) to create your first arena.
 
-Inspired by [PlayCulture](https://www.playculture.com). This is a fan-made project and is not affiliated with PlayCulture.
+**Requirements:** Paper or Purpur 1.21.11 and Java 21.
+
+## 📚 Learn more
+
+Rules, commands, permissions and admin guides for each game are on the website:
+**[playculturemc.graves041.com](https://playculturemc.graves041.com)**
+
+---
+
+<div align="center">
+
+<sub>Inspired by <a href="https://www.playculture.com">PlayCulture</a>. A fan-made project, not affiliated with PlayCulture.</sub>
+
+</div>
